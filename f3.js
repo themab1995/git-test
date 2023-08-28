@@ -1,0 +1,1 @@
+const f3 = 'feature 3'
